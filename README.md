@@ -1,4 +1,8 @@
-﻿# Mifare Windows Tool Reborn - MWTR
+﻿# Mifare Windows Tool - MWTR
+
+## About this fork
+
+I'm creating this for preservation purposes in case the main MWT disappears for some reason.
 
 ## Important
 
